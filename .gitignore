@@ -1,0 +1,11 @@
+.classpath
+.project
+
+*.idea/*
+
+*.iml
+*.ipr
+*.iws
+target/*
+*/src/main/resources/generated-sources/*
+
